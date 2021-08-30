@@ -1,0 +1,27 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+absl-py==0.12.0
+certifi==2020.12.5
+chardet==4.0.0
+click==7.1.2
+filelock==3.0.12
+idna==2.10
+joblib==1.0.1
+numpy==1.20.1
+packaging==20.9
+Pillow==8.1.2
+pyparsing==2.4.7
+regex==2021.3.17
+requests==2.25.1
+sacremoses==0.0.43
+six==1.15.0
+tokenizers==0.10.1
+torch==1.8.1+cu111
+torchaudio==0.8.1
+torchvision==0.9.1+cu111
+tqdm==4.49
+transformers==4.4.2
+typing-extensions==3.7.4.3
+urllib3==1.26.4
+datasets==1.6.2
+matplotlib==3.4.2
+sklearn==0.0
